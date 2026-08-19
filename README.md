@@ -23,8 +23,7 @@
 
 > **Note to developer:** *Replace the image link below with a screenshot of your actual application running.*
 
-![Weather App Preview](https://via.placeholder.com/800x400.png?text=Add+Screenshot+Here)
-
+Link -> https://know-weather-psi.vercel.app/
 ## ✨ Key Features
 
 - **Advanced Glassmorphism UI:** Built with custom CSS variables, backdrop filters, and multi-layered inset box shadows for a premium frosted-glass aesthetic.
