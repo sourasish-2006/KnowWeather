@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/WeatherAPI-00f2fe?style=for-the-badge&logo=api&logoColor=white" alt="WeatherAPI" />
   </p>
 
-  **[View Live Demo](#) • [Report a Bug](#gmail.com) • [Request a Feature](#gmail.com)**
+  **[View Live Demo](#) • [Report a Bug](samaddersourasish2006@gmail.com) • [Request a Feature](#gmail.com)**
 </div>
 
 ---
